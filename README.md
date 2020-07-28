@@ -3,6 +3,16 @@ brazil_election2022
 
 monitoring Brazilian election 2022
 
+##### Medium
+
+[Brazil, Jair Bolsonaro Approval .v01](https://medium.com/@gbferrada/brazil-jair-bolsonaro-approval-v01-510ad3eab8d8)
+
+
+
+![JairBolsonaro_approval](reports\figures\JairBolsonaro_approval.png)
+
+
+
 Project Organization
 ------------
 
@@ -50,7 +60,6 @@ Project Organization
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
-
 
 --------
 
