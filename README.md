@@ -9,7 +9,7 @@ monitoring Brazilian election 2022
 
 
 
-![JairBolsonaro_approval](reports\figures\JairBolsonaro_approval.png)
+![JairBolsonaro_approval](https://github.com/gabrielbfs/brazil_election2020/tree/master/reports/figures/JairBolsonaro_approval.png)
 
 
 
