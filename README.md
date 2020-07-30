@@ -6,6 +6,10 @@
 
 [Brazil, Jair Bolsonaro Approval .v01](https://medium.com/@gbferrada/brazil-jair-bolsonaro-approval-v01-510ad3eab8d8)
 
+##### check out:
+
+- html: 1.1-gbf-2020brazil_bolsonaroApproval ([html](https://github.com/gabrielbfs/brazil_election2020/blob/master/notebooks/1.1-gbf-2020brazil_bolsonaroApproval.html), [ipynb](https://github.com/gabrielbfs/brazil_election2020/blob/master/notebooks/1.1-gbf-2020brazil_bolsonaroApproval.ipynb))
+
 
 
 ## Motivation
