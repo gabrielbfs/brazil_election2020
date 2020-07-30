@@ -80,6 +80,8 @@ target/
 
 # exclude source files from source control by default
 /src/data/Twitter/private.py
+/src/data/Twitter/DataTwitter_json.py
+/src/data/Twitter/Twitter_API.py
 
 # Mac OS-specific storage files
 .DS_Store
