@@ -1,7 +1,6 @@
-brazil_election2022
-==============================
+# brazil_election2022
 
-monitoring Brazilian election 2022
+## monitoring Brazilian election 2022
 
 ##### Medium
 
@@ -9,7 +8,29 @@ monitoring Brazilian election 2022
 
 
 
-![JairBolsonaro_approval](https://github.com/gabrielbfs/brazil_election2020/tree/master/reports/figures/JairBolsonaro_approval.png)
+## Motivation
+
+> questions > data > answers
+
+**I. Domain Perspective**
+
+To monitor Jair Bolsonaro approval, I started with a descriptive analysis to understand the current scenario, trying to answer primary question, such as:
+
+1. how popular is Bolsonaro's approval changing over time?
+2. how Bolsonaro’s social media is changing over time?
+3. could a social media engagement be a precursor variable of Bolsonaro's approval?
+
+**II. Data Perspective**
+
+The project follows some of the best practices in terms of DS Projects, in terms of a logical and standardized structure (option for [cookiecutter data science](http://drivendata.github.io/cookiecutter-data-science/)).
+
+![](reports\figures\project_structure.PNG)
+
+
+
+**how popular is Bolsonaro’s approval changing over time?**
+
+![JairBolsonaro_approval](/reports/figures/JairBolsonaro_approval.png)
 
 
 
@@ -61,6 +82,8 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
---------
+
+
+
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
